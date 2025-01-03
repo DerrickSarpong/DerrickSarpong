@@ -33,8 +33,8 @@ I’m passionate about crafting innovative, data-driven solutions and creating i
 ### 🧰 Languages and Tools
 
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=vue,react,bootstrap,linux,html,css,vscode,github,figma,git" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,tensorflow,express,firebase,mongodb,c,anaconda,docker,photoshop,bash,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=vue,react,bootstrap,linux,html,css,vscode,github,figma,git,photoshop,xd" />
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,tensorflow,express,firebase,mongodb,c,cpp,anaconda,docker,bash,flask" /><br>
 </div>
 
 <!-- 
