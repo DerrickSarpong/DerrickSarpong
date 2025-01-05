@@ -34,7 +34,7 @@ I’m passionate about crafting innovative, data-driven solutions and creating i
 
 <div align="center">
     <img src="https://skillicons.dev/icons?i=vue,react,bootstrap,linux,html,css,vscode,github,figma,git,photoshop,xd" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,tensorflow,express,firebase,mongodb,c,cpp,anaconda,docker,bash,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,tensorflow,express,firebase,mongodb,c,cpp,anaconda,docker,bash" /><br>
 </div>
 
 <!-- 
